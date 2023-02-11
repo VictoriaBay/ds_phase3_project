@@ -98,8 +98,13 @@ The low number of customers subscribed to the voicemail plan suggests that some 
 
 ## Repository Guide
 
-* The data used for the project can be found here
-* The images from EDA can be found here
-* The notebook that contains the project can be found here
-* The presentation for this project can be found here  https://docs.google.com/presentation/d/1P1Hxa6_1gr7nk6OOYMXXmtJz6LaVlX32NrUgtGJLr9Y/edit?usp=sharing
+* The data used for the project can be found here 
+https://github.com/VictoriaBay/ds_phase3_project/blob/main/syria_tel_data.csv
+
+* The notebook that contains the project can be found here 
+https://github.com/VictoriaBay/ds_phase3_project/blob/main/Untitled.ipynb
+
+* The presentation for this project can be found here  
+https://docs.google.com/presentation/d/1P1Hxa6_1gr7nk6OOYMXXmtJz6LaVlX32NrUgtGJLr9Y/edit?usp=sharing
+
 * A Data Report for this project can be found here 
