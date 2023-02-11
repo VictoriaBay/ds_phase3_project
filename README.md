@@ -99,12 +99,17 @@ The low number of customers subscribed to the voicemail plan suggests that some 
 ## Repository Guide
 
 * The data used for the project can be found here 
+
 https://github.com/VictoriaBay/ds_phase3_project/blob/main/syria_tel_data.csv
 
 * The notebook that contains the project can be found here 
+
 https://github.com/VictoriaBay/ds_phase3_project/blob/main/Untitled.ipynb
 
 * The presentation for this project can be found here  
+
 https://github.com/VictoriaBay/ds_phase3_project/blob/main/SyriaTel%20Customer%20Churn%20Analysis.pdf
 
 * A Data Report for this project can be found here 
+
+https://github.com/VictoriaBay/ds_phase3_project/blob/main/data%20report.pdf
