@@ -30,4 +30,36 @@ Churned customers were having more customer service calls in the comparison with
 
 <img width="666" alt="image" src="https://user-images.githubusercontent.com/117164514/218263730-bbfbc4cf-c1a9-46a6-b33c-a4807f4fbfe1.png">
 
+## Modeling 
+* Model1 - Logistic Regression Classifier
 
+Logistic regression is a classification algorithm, used when the value of the target variable is categorical in nature.
+It is most commonly used when the data in question has binary output, so when it belongs to one class or another, or is either a 0 or 1.
+
+<img width="676" alt="image" src="https://user-images.githubusercontent.com/117164514/218264018-af34c53c-e4f3-4c75-be7b-44f2048f24a3.png">
+
+* Model2 - Decision Tree Classifier
+
+Decision Tree is a Supervised learning technique that can be used for both classification and Regression problems, but mostly it is preferred for solving Classification problems. It is a tree-structured classifier, where internal nodes represent the features of a dataset, branches represent the decision rules and each leaf node represents the outcome.
+
+It is called a decision tree because, similar to a tree, it starts with the root node, which expands on further branches and constructs a tree-like structure.
+
+<img width="632" alt="image" src="https://user-images.githubusercontent.com/117164514/218264100-305b4498-5a08-41e5-92e7-5e7c69cffb0a.png">
+
+* Model3 - Random Forest Classifier
+
+A forest is comprised of trees. It is said that the more trees it has, the more robust a forest is. Random forests creates decision trees on randomly selected data samples, gets prediction from each tree and selects the best solution by means of voting. It also provides a pretty good indicator of the feature importance.
+
+In machine learning, hyperparameter optimization or tuning is the problem of choosing a set of optimal hyperparameters for a learning algorithm. A hyperparameter is a parameter whose value is used to control the learning process. By contrast, the values of other parameters (typically node weights) are learned.
+It is called a decision tree because, similar to a tree, it starts with the root node, which expands on further branches and constructs a tree-like structure.
+
+<img width="545" alt="image" src="https://user-images.githubusercontent.com/117164514/218264158-893c8435-8908-49fe-afc2-7853d025b239.png">
+
+* Model4 Hyperparameter Tuning of Random Forest Classifier
+
+<img width="743" alt="image" src="https://user-images.githubusercontent.com/117164514/218264440-02842eab-b49c-4a56-ad7f-2fa0405062ff.png">
+
+According to the Random Forest Classifier, here are the 3 mostimportant features for the model:
+- Total Charge
+- Customer Service Calls 
+- International Plan 
