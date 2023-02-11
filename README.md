@@ -59,7 +59,35 @@ It is called a decision tree because, similar to a tree, it starts with the root
 
 <img width="743" alt="image" src="https://user-images.githubusercontent.com/117164514/218264440-02842eab-b49c-4a56-ad7f-2fa0405062ff.png">
 
+<img width="1121" alt="image" src="https://user-images.githubusercontent.com/117164514/218265439-1bd5519c-0f7e-4b15-8374-f0b471c08fdf.png">
+
 According to the Random Forest Classifier, here are the 3 mostimportant features for the model:
 - Total Charge
 - Customer Service Calls 
 - International Plan 
+
+## Modeling Summary for Model4
+
+* The accuracy score of 0.979 means that the model correctly predicted the outcome for 97.9% of the observations in the test set.
+
+* The F1 score of 0.92308 is the harmonic mean of precision and recall and is used to balance the precision and recall. The higher the F1 score, the        better the balance between precision and recall. In this case, the F1 score of 0.92308 is a good indication that the model has a good balance between precision and recall.
+
+* The recall score of 0.88112 means that the model correctly predicted 88.112% of the positive outcomes in the test set. This score is important when the positive outcome is of great interest and we want to minimize false negatives.
+
+* The precision score of 0.96923 means that when the model predicts positive, it is correct 96.923% of the time. This score is important when false positives are costly and we want to minimize them.
+
+## Recommendations
+
+SyriaTel should prioritize implementing strategies aimed at reducing customer churn, as a loss of 14.8% of their customer base has already been experienced. To achieve this goal, the following initiatives should be considered:
+
+* Rate Assessment
+It is essential to evaluate the current charging rates and identify any potential areas for improvement, as customers seem to be dissatisfied with high charges, resulting in increased likelihood of churn.
+
+* Customer Service Evaluation
+To improve customer experience, it is crucial to assess the quality of customer service offered by the company. With over 50% of customers making more than three service calls churning, additional training for customer service staff and the creation of an internal forum to document common customer issues should be considered.
+
+* International Plan Analysis
+To stay ahead of the competition, it is crucial to investigate the viability of offering an international plan to improve retention and customer satisfaction. A thorough market analysis should be conducted to assess the competitiveness of pricing against other providers, with relevant improvements made to the international plan based on the results.
+
+* Voicemail Plan Promotion
+The low number of customers subscribed to the voicemail plan suggests that some customers may be unaware of the option, and therefore promoting this plan may help to reduce churn.
