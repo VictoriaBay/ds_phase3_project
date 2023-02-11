@@ -95,3 +95,11 @@ To stay ahead of the competition, it is crucial to investigate the viability of 
 * Voicemail Plan Promotion
 
 The low number of customers subscribed to the voicemail plan suggests that some customers may be unaware of the option, and therefore promoting this plan may help to reduce churn.
+
+## Repository Guide
+
+* The data used for the project can be found here
+* The images from EDA can be found here
+* The notebook that contains the project can be found here
+* The presentation for this project can be found here  https://docs.google.com/presentation/d/1P1Hxa6_1gr7nk6OOYMXXmtJz6LaVlX32NrUgtGJLr9Y/edit?usp=sharing
+* A Data Report for this project can be found here 
