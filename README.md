@@ -1,4 +1,4 @@
-# SyriaTel Customer Churn Analysis
+# SyriaTel Customer Churn Analysis and Modeling
 
 ![image](https://user-images.githubusercontent.com/117164514/218263478-df38eec8-9987-42a2-8c53-1af0496d85d6.jpg)
 
