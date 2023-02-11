@@ -105,6 +105,6 @@ https://github.com/VictoriaBay/ds_phase3_project/blob/main/syria_tel_data.csv
 https://github.com/VictoriaBay/ds_phase3_project/blob/main/Untitled.ipynb
 
 * The presentation for this project can be found here  
-https://docs.google.com/presentation/d/1P1Hxa6_1gr7nk6OOYMXXmtJz6LaVlX32NrUgtGJLr9Y/edit?usp=sharing
+https://github.com/VictoriaBay/ds_phase3_project/blob/main/SyriaTel%20Customer%20Churn%20Analysis.pdf
 
 * A Data Report for this project can be found here 
