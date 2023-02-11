@@ -81,13 +81,17 @@ According to the Random Forest Classifier, here are the 3 mostimportant features
 SyriaTel should prioritize implementing strategies aimed at reducing customer churn, as a loss of 14.8% of their customer base has already been experienced. To achieve this goal, the following initiatives should be considered:
 
 * Rate Assessment
+
 It is essential to evaluate the current charging rates and identify any potential areas for improvement, as customers seem to be dissatisfied with high charges, resulting in increased likelihood of churn.
 
 * Customer Service Evaluation
+
 To improve customer experience, it is crucial to assess the quality of customer service offered by the company. With over 50% of customers making more than three service calls churning, additional training for customer service staff and the creation of an internal forum to document common customer issues should be considered.
 
 * International Plan Analysis
+
 To stay ahead of the competition, it is crucial to investigate the viability of offering an international plan to improve retention and customer satisfaction. A thorough market analysis should be conducted to assess the competitiveness of pricing against other providers, with relevant improvements made to the international plan based on the results.
 
 * Voicemail Plan Promotion
+
 The low number of customers subscribed to the voicemail plan suggests that some customers may be unaware of the option, and therefore promoting this plan may help to reduce churn.
